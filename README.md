@@ -7,6 +7,6 @@ https://nbviewer.org/github/adarsh-niranjan/Rhythm_and_Risk/blob/main/Rhythm_and
 The **'Sources'** folder contains all the data from which the Project was derived. <br>
 ### Rhythm_and_Risk.ipynb:
 It is the Jupyter Notebook project file.
-
+</br>
 ## Details:
 ** A data analysis project investigating the leading contributors to heart disease using Python's data manipulation and visualization libraries. Patient data encompassing chest pain type, blood pressure, cholesterol, heart rate, and vessel blockage underwent analysis through machine learning algorithms. This comprehensive approach successfully identified factors directly linked to a heightened risk of heart disease. **
