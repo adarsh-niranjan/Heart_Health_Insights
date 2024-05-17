@@ -1,7 +1,7 @@
 # Rhythm and Risk
-https://nbviewer.org/github/adarsh-niranjan/Rhythm_and_Risk/blob/main/Rhythm_and_Risk.ipynb
+<img src="https://cardiologistnashik.in/wp-content/uploads/2021/08/istock-3733724-640.jpg" width=400 height=200>
 ## *Finding relations between different health attributes and heart diseases using data analysis.* </br>
-### Live at: </br>
+### Live at:
 https://nbviewer.org/github/adarsh-niranjan/Rhythm_and_Risk/blob/main/Rhythm_and_Risk.ipynb
 ### Source:
 The **'Sources'** folder contains all the data from which the Project was derived. <br>
